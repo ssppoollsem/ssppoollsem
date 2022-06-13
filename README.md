@@ -13,6 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647.svg?&style=for-the-badge&logo=Gulp&logoColor=white)
 ![PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![XD](https://img.shields.io/badge/XD-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssppoollsem@gmail.com)](mailto:ssppoollsem@gmail.com)
